@@ -1,0 +1,6 @@
+------------------------------------------------
+|Touche de direction : Pour deplacer le serpent|
+|p : Pour pauser le jeu                        | 
+|r : Pour retourner dans le jeu                |
+|e : Pour fermer le jeu                        |
+------------------------------------------------
