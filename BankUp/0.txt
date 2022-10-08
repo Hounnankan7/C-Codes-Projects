@@ -1,0 +1,17 @@
+ while (isPresent == true)
+    {
+        string::size_type idx = myText.find(number);
+        if (idx == string::npos)
+        {
+            /* code */
+            isPresent = false;
+            
+        }
+        else{
+           number++;
+           isPresent = true;
+        }
+
+    }
+
+    std::cout << isPresent;

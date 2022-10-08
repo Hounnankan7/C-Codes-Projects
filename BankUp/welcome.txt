@@ -1,0 +1,20 @@
+----------------------------------------------------------
+########     ###    ##    ## ##    ## ##     ## ########  
+##     ##   ## ##   ###   ## ##   ##  ##     ## ##     ## 
+##     ##  ##   ##  ####  ## ##  ##   ##     ## ##     ## 
+########  ##     ## ## ## ## #####    ##     ## ########  
+##     ## ######### ##  #### ##  ##   ##     ## ##        
+##     ## ##     ## ##   ### ##   ##  ##     ## ##        
+########  ##     ## ##    ## ##    ##  #######  ##   
+----------------------------------------------------------
+Entrer le numero de l'action que vous souhaitez realisee.
+
+1 - Ouvrir un compte
+2 - Consulter les infos de mon compte
+3 - Ajouter de l'argent a mon compte
+4 - Retirer de l'argent de mon compte
+5 - Fermer mon compte
+6 - Fermer l'application
+
+Cree par : HOUNNANKAN Prince-Donald
+----------------------------------------------------------
